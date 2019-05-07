@@ -19,6 +19,13 @@
 .ellipse {
 }
 ._形状 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:10px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
 }
 ._图片 {
 }
@@ -123,7 +130,7 @@
 }
 .table_cell {
 }
-._连接 {
+._连接线 {
 }
 .sticky_1 {
   text-align:left;
@@ -131,18 +138,15 @@
 .marker {
   color:#FFFFFF;
 }
-.form_hint {
-  color:#999999;
-}
-.form_disabled {
-}
 .icon {
 }
 .menu_item {
 }
 .image {
 }
-.link_button {
-  color:#169BD5;
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
 }
 textarea, select, input, button { outline: none; }
